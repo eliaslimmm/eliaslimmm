@@ -10,8 +10,11 @@ Python · SQL · PostgreSQL · PySpark · Git/GitHub · Microsoft Azure · Micro
 
 ### 🚀 Projects
 
-**[EV Charging Points Data Engineering](https://github.com/eliaslimmm/ev-charging-data-engineering)**
+**[EV Charging Points Data Engineering](https://github.com/eliaslimmm/ev-charging-data-engineering)**\
 A team project exploring Singapore EV charging point data, from raw data processing to database analysis.
+
+**[NHL Home and Away Performance Analysis](https://github.com/eliaslimmm/NHL-Home-and-Away-Performance-Analysis)**\
+Team project analysing NHL game performance, with individual contributions to PySpark data transformation and data quality validation in Microsoft Fabric.
 
 ### 📫 Connect
 
